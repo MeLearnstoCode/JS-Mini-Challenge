@@ -54,4 +54,4 @@ else {
 
 alert(openDoor(2));
 alert(openDoor(3));
-alert(openDoor(none));
+alert(openDoor('none'));
